@@ -4,6 +4,8 @@ Ask Claude about your vehicle fleet in plain language. IMG Monitoring Assistant 
 
 The assistant is **read-only**. It never changes settings, never sends commands to trackers, and never creates or edits notifications.
 
+Claude answers in the language you ask in, including Uzbek, Russian and English. Vehicle, geofence and group names are shown exactly as they are named in Wialon.
+
 ## What you can ask
 
 - "What's the state of the fleet?" — online and moving vehicles, plus a breakdown of every unit that has lost contact: how long it has been silent, last known power, ignition, battery and GSM state, the likely cause, and what to check.
