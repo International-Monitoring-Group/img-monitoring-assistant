@@ -1,13 +1,15 @@
 {
   "name": "img-monitoring-assistant",
   "displayName": "IMG Monitoring Assistant",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Ask about your Wialon Local fleet in plain language: fleet status, offline-unit diagnostics, maintenance due, trip and fuel reports, vehicle locations by geofence, groups and notifications. Read-only.",
   "author": {
     "name": "International Monitoring Group",
     "url": "https://img.uz"
   },
   "homepage": "https://ai.img.uz",
+  "documentationUrl": "https://ai.img.uz/docs",
+  "supportUrl": "mailto:support@img.uz",
   "repository": "https://github.com/International-Monitoring-Group/img-monitoring-assistant",
   "privacyPolicyUrl": "https://ai.img.uz/privacy",
   "license": "MIT",
